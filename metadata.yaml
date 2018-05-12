@@ -1,5 +1,8 @@
 _repo: Mr.-Prohack_12773
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bennett, Arnold
@@ -14,6 +17,8 @@ creator:
 description: Mr. Prohack is Arnold Bennett's 1922 comic novel about a delightfully
   conscientious civil servant who comes into a windfall of 100,000 and enters upon
   the busy idle life of the leisure class.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12773#Mr.-Prohack
 gutenberg_issued: '2004-06-29'
 gutenberg_type: Text
 identifiers:
